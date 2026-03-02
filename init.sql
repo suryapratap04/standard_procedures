@@ -18,7 +18,7 @@ BEGIN
         ('vanda Jain', 'vanda@example.com'),
         ('Raghav Dave', 'raghav@example.com'),
         ('Surya Pratap Singh', 'surya@example.com'),
-        ('vanda Jain', 'vanda@example.com'),
+        ('vanbhbda Jain', 'vanbhda@example.com');
 
 END;
 $$;
