@@ -14,9 +14,11 @@ BEGIN
     -- Insert dummy data
     INSERT INTO users (name, email)
     VALUES 
-        ('John Doe', 'john@example.com'),
-        ('Jane Smith', 'jane@example.com'),
-        ('Mike Johnson', 'mike@example.com');
+        ('Surya Pratap Singh', 'surya@example.com'),
+        ('vanda Jain', 'vanda@example.com'),
+        ('Raghav Dave', 'raghav@example.com'),
+        ('Surya Pratap Singh', 'surya@example.com'),
+        ('vanda Jain', 'vanda@example.com'),
 
 END;
 $$;
